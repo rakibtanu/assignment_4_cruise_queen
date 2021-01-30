@@ -139,6 +139,14 @@ nav ul li a:hover, a.active{
 .quantity-button:hover{
     background-color: #ff000f;
 }
+.order_button{
+    border-radius: 5px;
+    border: none;
+    color: #fff;
+    font-weight: 500;
+    background-color:  #E33741;
+    padding: 10px;
+}
 
 #booking-information{
     background: #fff;
